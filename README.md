@@ -1,4 +1,4 @@
-# ¡Hola! Soy Jonathan 👋
+# ¡Hola! Soy Jonathan 
 
 👨‍💻 Estudiante de Ingeniería en Software, construyendo proyectos y aprendiendo todos los días.
 
